@@ -1,11 +1,10 @@
 - item: 首页
   icon: fa fa-home
-  link: "https://bioit.top"
+  link: "https://it.ceyfg.cloudns.org"
 
-- item: 作者
+- item: 我的博客
   icon: fab fa-hive
-  link: https://weiyan.cc
-
+  link: https://ceyfn.cloudns.org
 - item: 设置
   icon: fa fa-cog
   link: ""
